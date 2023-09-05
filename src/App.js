@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
+
 import { Routes, Route } from 'react-router-dom';
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
 import Login from './components/Login/Login';
